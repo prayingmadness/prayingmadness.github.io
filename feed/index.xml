@@ -12,11 +12,11 @@
 	<atom:link href="https://prayingmadness.github.io/feed/" rel="self" type="application/rss+xml" />
 	<link>https://prayingmadness.github.io/</link>
 	<description>Est. 1976. Technical Director and possible Fictional Character.</description>
-	<lastBuildDate>Mon, 23 Jul 2018 17:12:50 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 30 Jul 2018 06:36:06 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.7.11</generator>
+	<generator>https://wordpress.org/?v=4.9.7</generator>
 	<item>
 		<title>Chekhov is Alive</title>
 		<link>https://prayingmadness.github.io/chekhov-is-alive/</link>
@@ -32,6 +32,23 @@
 ]]></content:encoded>
 			</item>
 		<item>
+		<title>Volkswagen AR Fashion Show</title>
+		<link>https://prayingmadness.github.io/volkswagen-ar-fashion-show/</link>
+		<pubDate>Thu, 30 Jul 2015 06:21:54 +0000</pubDate>
+		<dc:creator><![CDATA[scott kosman]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">https://prayingmadness.github.io/?p=161</guid>
+		<description><![CDATA[In 2012 I travelled to China as part of a team running the Volkswagen Pavilion at Auto Guangzhou, one of the largest car and auto exhibitions in the world. The agency I worked for at the time built an interactive video background wall for a fashion show as part of the presentation. Using 3 Microsoft&#8230; <p class="more-link-p"><a class="more-link" href="https://prayingmadness.github.io/volkswagen-ar-fashion-show/">Continue reading <span class="meta-nav">&#8594;</span></a></p>]]></description>
+				<content:encoded><![CDATA[<p>In 2012 I travelled to China as part of a team running the Volkswagen Pavilion at Auto Guangzhou, one of the largest car and auto exhibitions in the world. The agency I worked for at the time built an interactive video background wall for a fashion show as part of the presentation. Using 3 Microsoft Kinects mounted below a 54m2 LED wall, we built a motion-sensor-triggered series of animations synced to music that would fire overtop of another video whenever a model walked past one of the Kinects.</p>
+<p>In the weeks and months leading up to the show I designed and built all of the technical schematics and setup for our portion of the event. Determining the best deployment of equipment, cabling, power management, and ensuring all the gear required was purchased in advance or would be waiting at the pavilion for us when we arrived. This involved many <em>many</em> phone calls with our partners in China in an effort to ensure we&#8217;d have our setup completely locked in place with no surprises.</p>
+<p>During the event itself I managed the A/V booth (pictured below), running the on-screen content and audio mix for the fashion shows. For two weeks this show ran eight times per day. You can imagine how burned into my mind the soundtrack was by the end of the exhibition.</p>
+<p><img class="alignnone wp-image-162 size-medium" src="https://prayingmadness.github.io/wp-content/uploads/2018/07/vw-ar-300x225.jpg" alt="" width="300" height="225" srcset="https://prayingmadness.github.io/wp-content/uploads/2018/07/vw-ar-300x225.jpg 300w, https://prayingmadness.github.io/wp-content/uploads/2018/07/vw-ar-768x575.jpg 768w, https://prayingmadness.github.io/wp-content/uploads/2018/07/vw-ar-1024x767.jpg 1024w, https://prayingmadness.github.io/wp-content/uploads/2018/07/vw-ar-400x299.jpg 400w, https://prayingmadness.github.io/wp-content/uploads/2018/07/vw-ar.jpg 1110w" sizes="(max-width: 300px) 100vw, 300px" /></p>
+<p>As far as I know this is the only video in existence of our show, unfortunately the quality is fairly poor (I deputized someone to run out and record it using my iPad) but you can clearly see the different visual effects in play. The crowd reaction during some of these moments was intense and definitely added a lot to the show.</p>
+<p><iframe src="https://www.youtube.com/embed/s64THcOMszo?rel=0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+]]></content:encoded>
+			</item>
+		<item>
 		<title>Don&#8217;t Think Just Play</title>
 		<link>https://prayingmadness.github.io/dont-think-just-play/</link>
 		<pubDate>Sun, 03 May 2015 12:47:54 +0000</pubDate>
@@ -40,7 +57,7 @@
 
 		<guid isPermaLink="false">http://prayingmadness.com/?p=58</guid>
 		<description><![CDATA[I&#8217;d been asked by the beautiful people at Fronteers to present a 10-minute talk at their &#8220;Jam Session,&#8221; which takes place the evening before their annual web development conference. Rather than present yet another technical-oriented talk as all of the other presenters would be doing, I decided to take a different tactic and actually present&#8230; <p class="more-link-p"><a class="more-link" href="https://prayingmadness.github.io/dont-think-just-play/">Continue reading <span class="meta-nav">&#8594;</span></a></p>]]></description>
-				<content:encoded><![CDATA[<p>I&#8217;d been asked by the beautiful people at <a href="http://fronteers.nl/">Fronteers</a> to present a 10-minute talk at their &#8220;Jam Session,&#8221; which takes place the evening before their annual web development conference. Rather than present yet another technical-oriented talk as all of the other presenters would be doing, I decided to take a different tactic and actually present on public speaking. My thinking was that in this industry, everyone is going to have to present something at some point, whether to a small group of colleagues, as a pitch to a prospective client, or speaking at an industry gathering. Drawing on my experience as a former church preacher (seriously!) I gave a lightning talk on some key tactics to make yourself a better public speaker. As fate would have it, I was chosen to give the opening talk of the night, which of course led to me referring to myself as the Fronteers keynote speaker. <img src="https://s.w.org/images/core/emoji/2.2.1/72x72/1f609.png" alt="😉" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+				<content:encoded><![CDATA[<p>I&#8217;d been asked by the beautiful people at <a href="http://fronteers.nl/">Fronteers</a> to present a 10-minute talk at their &#8220;Jam Session,&#8221; which takes place the evening before their annual web development conference. Rather than present yet another technical-oriented talk as all of the other presenters would be doing, I decided to take a different tactic and actually present on public speaking. My thinking was that in this industry, everyone is going to have to present something at some point, whether to a small group of colleagues, as a pitch to a prospective client, or speaking at an industry gathering. Drawing on my experience as a former church preacher (seriously!) I gave a lightning talk on some key tactics to make yourself a better public speaker. As fate would have it, I was chosen to give the opening talk of the night, which of course led to me referring to myself as the Fronteers keynote speaker. <img src="https://s.w.org/images/core/emoji/2.4/72x72/1f609.png" alt="😉" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
 <p>The talks were all recorded, so below is a video of me presenting as well as my slide deck from the presentation.</p>
 <p><iframe src="https://player.vimeo.com/video/51827394" width="848" height="477" frameborder="0" title="Scott Kosman | Don&#039;t Think, Just Play | Fronteers 2012 Jam Session" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></p>
 <iframe allowfullscreen="true" allowtransparency="true" frameborder="0" height="699" id="talk_frame_6800" mozallowfullscreen="true" src="//speakerdeck.com/player/506caf672d77290002019afe" style="border:0; padding:0; margin:0; background:transparent;" webkitallowfullscreen="true" width="848"></iframe>
@@ -177,27 +194,6 @@
 <p><img class="alignnone wp-image-25 size-full" src="http://prayingmadness.com/wp-content/uploads/2015/05/sdb_01.jpg" alt="sdb_01" width="1085" height="709" srcset="https://prayingmadness.github.io/wp-content/uploads/2015/05/sdb_01.jpg 1085w, https://prayingmadness.github.io/wp-content/uploads/2015/05/sdb_01-300x196.jpg 300w, https://prayingmadness.github.io/wp-content/uploads/2015/05/sdb_01-1024x669.jpg 1024w, https://prayingmadness.github.io/wp-content/uploads/2015/05/sdb_01-400x261.jpg 400w" sizes="(max-width: 1085px) 100vw, 1085px" /></p>
 <p>The iPad-only reading experience included a menacing page burner that destroyed every page as the user swiped it. To intensify the thrill, a control panel informed readers when someone stole time from them and when other books were destroyed.</p>
 <p><img class="alignnone wp-image-27 size-full" src="http://prayingmadness.com/wp-content/uploads/2015/05/sdb_04.jpg" alt="sdb_04" width="1085" height="562" srcset="https://prayingmadness.github.io/wp-content/uploads/2015/05/sdb_04.jpg 1085w, https://prayingmadness.github.io/wp-content/uploads/2015/05/sdb_04-300x155.jpg 300w, https://prayingmadness.github.io/wp-content/uploads/2015/05/sdb_04-1024x530.jpg 1024w, https://prayingmadness.github.io/wp-content/uploads/2015/05/sdb_04-400x207.jpg 400w" sizes="(max-width: 1085px) 100vw, 1085px" /></p>
-]]></content:encoded>
-			</item>
-		<item>
-		<title>Soma FM Now Playing</title>
-		<link>https://prayingmadness.github.io/soma-fm-now-playing/</link>
-		<pubDate>Sun, 03 May 2015 10:48:19 +0000</pubDate>
-		<dc:creator><![CDATA[scott kosman]]></dc:creator>
-				<category><![CDATA[Uncategorized]]></category>
-		<category><![CDATA[work]]></category>
-
-		<guid isPermaLink="false">http://prayingmadness.com/?p=60</guid>
-		<description><![CDATA[Any time I&#8217;m in a position to have to learn a new technology platform, my &#8220;Hello, world&#8221; of choice is to build a fairly simple Now Playing widget for SomaFM internet radio – basically allowing a user to instantly see what track is playing on any of their stations at any given time. In the last couple&#8230; <p class="more-link-p"><a class="more-link" href="https://prayingmadness.github.io/soma-fm-now-playing/">Continue reading <span class="meta-nav">&#8594;</span></a></p>]]></description>
-				<content:encoded><![CDATA[<p>Any time I&#8217;m in a position to have to learn a new technology platform, my &#8220;Hello, world&#8221; of choice is to build a fairly simple Now Playing widget for <a href="http://somafm.com/">SomaFM</a> internet radio – basically allowing a user to instantly see what track is playing on any of their stations at any given time.</p>
-<p>In the last couple of years I&#8217;ve done this twice: in 2013 for Panic&#8217;s <a href="https://panic.com/statusboard/">Status Board</a> iPad app and most recently for the <a href="https://getpebble.com/">Pebble Smartwatch</a>.</p>
-<p><a href="http://prayingmadness.com/wp-content/uploads/2015/05/soma_statusboard.png"><img class="alignnone size-full wp-image-116" src="http://prayingmadness.com/wp-content/uploads/2015/05/soma_statusboard.png" alt="soma_statusboard" width="275" height="274" srcset="https://prayingmadness.github.io/wp-content/uploads/2015/05/soma_statusboard.png 275w, https://prayingmadness.github.io/wp-content/uploads/2015/05/soma_statusboard-150x150.png 150w" sizes="(max-width: 275px) 100vw, 275px" /></a></p>
-<p><strong>Wanna have a play?</strong></p>
-<ul>
-<li>If you&#8217;re a Status Board user you can add the widget to your own iPad by <a href="panicboard://?url=http%3A%2F%2Fsomafm.prayingmadness.com&amp;panel=diy">tapping here</a>.</li>
-<li>If you have a Pebble, <a href="http://apps.getpebble.com/en_US/application/55a7f76374e429d266000040">oh hey look over here</a>.</li>
-</ul>
-<p>And if you have neither device handy but still want to peek under the hood, both codebases are on Github: <a href="https://github.com/humantorch/Soma-FM-panel-for-Status-Board">Status Board</a> | <a href="https://github.com/humantorch/pebble-somafm">Pebble</a></p>
 ]]></content:encoded>
 			</item>
 	</channel>
