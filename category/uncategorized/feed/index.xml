@@ -12,12 +12,43 @@
 	<atom:link href="https://prayingmadness.github.io/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
 	<link>https://prayingmadness.github.io/</link>
 	<description>Est. 1976. Technical Director and possible Fictional Character.</description>
-	<lastBuildDate>Mon, 30 Jul 2018 13:58:26 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 31 Jul 2018 12:55:42 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=4.9.7</generator>
 	<item>
+		<title>killer loop – the hunt</title>
+		<link>https://prayingmadness.github.io/killer-loop-the-hunt/</link>
+		<pubDate>Tue, 31 Jul 2018 10:41:17 +0000</pubDate>
+		<dc:creator><![CDATA[scott kosman]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">https://prayingmadness.github.io/?p=185</guid>
+		<description><![CDATA[https://prayingmadness.github.io/killerloop Clothing brand Killer Loop&#8217;s mission was to celebrate and supply a new generation of passionate authentic filmmakers and photographers – modern day adventurers if you will. Well, what better way to do this than with a ‘high-adrenalin, downhill bigfoot pursuit (on skis)?&#8217; The idea behind this interactive film was to throw camera control over&#8230; <p class="more-link-p"><a class="more-link" href="https://prayingmadness.github.io/killer-loop-the-hunt/">Continue reading <span class="meta-nav">&#8594;</span></a></p>]]></description>
+				<content:encoded><![CDATA[<p><a href="https://prayingmadness.github.io/killerloop">https://prayingmadness.github.io/killerloop</a></p>
+<p>Clothing brand Killer Loop&#8217;s mission was to celebrate and supply a new generation of passionate authentic filmmakers and photographers – modern day adventurers if you will. Well, what better way to do this than with a ‘high-adrenalin, downhill bigfoot pursuit (on skis)?&#8217; The idea behind this interactive film was to throw camera control over to the user during Bigfoot&#8217;s big stunt.</p>
+<p>This project pushed HTML5 &lt;video&gt; in directions it was never supposed to go, integrating live camera-angle switching at one point in the video, allowing the user to choose which angle to view a stunt from. This was accomplished through a technique similar to a graphic sprite sheet, where all the camera angles were contained in one video file and &#8220;changing the camera angle&#8221; redirects the user to a new point in the video timeline. I&#8217;ve seen this used with audio files but, to the best of my knowledge, I&#8217;m the only developer in the history of the universe to attempt it with video. It resulted in a pretty long preloader since the entire video file needed to be loaded in order for timeline jumping to work accurately and smoothly, which introduced it&#8217;s own host of issues since every browser implements video preloading differently. Chrome, oddly, was the <em>worst</em> offender here and required a significant amount of hacking to force it into submission.</p>
+<p>This was a project built in late 2013 for Minivegas. The live version of the project has been significantly changed by the client&#8217;s internal development team since my initial build went live, so a build of the project as it stood when I handed it off is available at <a href="https://prayingmadness.github.io/killerloop">prayingmadness.github.io/killerloop</a></p>
+<p>Up until the site was handed off to the client and deployed live I was the sole developer on the project.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>adidas runners</title>
+		<link>https://prayingmadness.github.io/adidas-runners/</link>
+		<pubDate>Tue, 31 Jul 2018 09:43:41 +0000</pubDate>
+		<dc:creator><![CDATA[scott kosman]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">https://prayingmadness.github.io/?p=180</guid>
+		<description><![CDATA[adidas Runners is one of the most ambitious attempts at building communities adidas has ever taken before. The goal was to not only set up groups of like-minded runners in cities around the world but to also empower the natural leaders within these groups to self-organize and build their own calendar of different events at&#8230; <p class="more-link-p"><a class="more-link" href="https://prayingmadness.github.io/adidas-runners/">Continue reading <span class="meta-nav">&#8594;</span></a></p>]]></description>
+				<content:encoded><![CDATA[<p>adidas Runners is one of the most ambitious attempts at building communities adidas has ever taken before. The goal was to not only set up groups of like-minded runners in cities around the world but to also empower the natural leaders within these groups to self-organize and build their own calendar of different events at a grassroots level – events which adidas would then support (through promotion and occasional swag). Local groups nominated &#8220;captains&#8221; and &#8220;coaches&#8221; who took on the responsibility to manage and plan future events, many of which happen several times per week.</p>
+<p>Complicating factors here was that approximately a year after the communities launched we entered into Phase 2 of the project: integration with our sister athletics-tracking program, <a href="https://runtastic.com/">Runtastic</a> (adidas acquired Runtastic in 2015). Tapping into Runtastic&#8217;s existing userbase of 130+ million athletes, our plan was to greatly expand the size and number of communities by allowing Runtastic users to join their local running groups from directly within the app. This was the very first technical integration between adidas and Runtastic and required an incredible amount of teamwork and collaboration between teams both external (3rd party development agency, Runtastic infrastructure) and internal (adidas AWS management, network security, CRM, account management). My role as Technical Director was to manage and oversee all of the teams here, facilitating communication (the teams were spread over 5 countries in two separate continents) and ensuring that our stated goals and KPIs were front-of-mind at all stages of development to manage expectations and avoid scope creep.</p>
+<p>The end result? Well, in the Runtastic app you can now do this:</p>
+<p><img class="aligncenter wp-image-194" src="https://prayingmadness.github.io/wp-content/uploads/2018/07/rt-169x300.png" alt="" width="375" height="667" srcset="https://prayingmadness.github.io/wp-content/uploads/2018/07/rt-169x300.png 169w, https://prayingmadness.github.io/wp-content/uploads/2018/07/rt-768x1365.png 768w, https://prayingmadness.github.io/wp-content/uploads/2018/07/rt-576x1024.png 576w, https://prayingmadness.github.io/wp-content/uploads/2018/07/rt-400x711.png 400w, https://prayingmadness.github.io/wp-content/uploads/2018/07/rt.png 800w" sizes="(max-width: 375px) 100vw, 375px" /></p>
+]]></content:encoded>
+			</item>
+		<item>
 		<title>Chekhov is Alive</title>
 		<link>https://prayingmadness.github.io/chekhov-is-alive/</link>
 		<pubDate>Sat, 09 Jan 2016 09:57:27 +0000</pubDate>
@@ -98,25 +129,6 @@
 ]]></content:encoded>
 			</item>
 		<item>
-		<title>22tracks</title>
-		<link>https://prayingmadness.github.io/22tracks/</link>
-		<pubDate>Sun, 03 May 2015 12:45:52 +0000</pubDate>
-		<dc:creator><![CDATA[scott kosman]]></dc:creator>
-				<category><![CDATA[Uncategorized]]></category>
-		<category><![CDATA[work]]></category>
-
-		<guid isPermaLink="false">http://prayingmadness.com/?p=48</guid>
-		<description><![CDATA[It’s not everyday you get to work on a product you really love. It’s even more rare that you get a chance to redesign it. But that’s basically what happened when we were approached by 22tracks to design and develop an alternative to their hugely popular music curation website. http://22tracks.mvtest.net [opens/ in new window] VICE Media&#8230; <p class="more-link-p"><a class="more-link" href="https://prayingmadness.github.io/22tracks/">Continue reading <span class="meta-nav">&#8594;</span></a></p>]]></description>
-				<content:encoded><![CDATA[<p><strong>It’s not everyday you get to work on a product you really love. It’s even more rare that you get a chance to redesign it. But that’s basically what happened when we were approached by 22tracks to design and develop an alternative to their hugely popular music curation website.</strong></p>
-<p><a href="http://22tracks.mvtest.net/" target="_blank">http://22tracks.mvtest.net/</a><em> [opens in new window]</em></p>
-<p>VICE Media and UM orchestrated a collaboration between 22tracks and IE -part of bigger campaign- to imagine a version of their site that was optimized for IE11′s impressive new feature set, especially the WebGL support and multi-touch support. We were brought in right at the beginning to look at the core qualities of both website and browser and reassess 22tracks.com based on our findings. There followed an intense design phase where we looked at how we could really optimize the user experience for touch while preserving the simplicity and function of the existing 22tracks website. And all this within a fully responsive HTML5 framework that would adapt to multiple devices. We organized the playlist browsing and track-related functionality into two opposing drawers that allow users to perform multiple contextual interactions while keeping the music pumping.</p>
-<p><img class="alignnone size-full wp-image-80" src="http://prayingmadness.com/wp-content/uploads/2015/05/22t_01.jpg" alt="22t_01" width="935" height="526" srcset="https://prayingmadness.github.io/wp-content/uploads/2015/05/22t_01.jpg 935w, https://prayingmadness.github.io/wp-content/uploads/2015/05/22t_01-300x169.jpg 300w, https://prayingmadness.github.io/wp-content/uploads/2015/05/22t_01-400x225.jpg 400w" sizes="(max-width: 935px) 100vw, 935px" /></p>
-<p>The center-piece (literally), is a dial device that contains the usual track controls but also a 360 degree way to tap through the 22 tracks of each playlist and also an outer circle which allows users to scrub through each track by swiping around a dynamic equalizer-type graphic. While we finessed the intricacies of the UI we also began concepting an audio-visualiser that would accompany the music. We wanted this to be graphically minimal – taking cues from the existing 22tracks look and feel – and really and truly responsive to the music. We also wanted it to be interactive, partly to showcase the multi-touch capabilities of IE11.</p>
-<p><img class="alignnone size-full wp-image-81" src="http://prayingmadness.com/wp-content/uploads/2015/05/22t_02.jpg" alt="22t_02" width="935" height="526" srcset="https://prayingmadness.github.io/wp-content/uploads/2015/05/22t_02.jpg 935w, https://prayingmadness.github.io/wp-content/uploads/2015/05/22t_02-300x169.jpg 300w, https://prayingmadness.github.io/wp-content/uploads/2015/05/22t_02-400x225.jpg 400w" sizes="(max-width: 935px) 100vw, 935px" /></p>
-<p>We decided on a direction we called ‘Blobs’. Amorphous distorted circles spawn from the center of the player and then float off around the screen, pulsing and moving to different aspects of the music. Different blobs react to different frequencies, certain types react in different ways to others and they are all effected by gravity and the tilt of the device’s accelerometer. Users can grow new blobs from their finger tips, pinch, stretch and pluck existing blobs as well as inflating them to bursting point (whereupon they explode into 22 ‘blobdules’ (see what we did there?) – all without missing a beat. Ultimately this was a significant design and technology challenge. This kind of experience is not normally something that happens in browsers, let alone multiple browsers on multiple devices. And it’s got blobs in it.</p>
-]]></content:encoded>
-			</item>
-		<item>
 		<title>Channel 4 News Wall</title>
 		<link>https://prayingmadness.github.io/channel-4-news-wall/</link>
 		<pubDate>Sun, 03 May 2015 12:44:50 +0000</pubDate>
@@ -179,27 +191,6 @@
 <p><img class="alignnone wp-image-25 size-full" src="http://prayingmadness.com/wp-content/uploads/2015/05/sdb_01.jpg" alt="sdb_01" width="1085" height="709" srcset="https://prayingmadness.github.io/wp-content/uploads/2015/05/sdb_01.jpg 1085w, https://prayingmadness.github.io/wp-content/uploads/2015/05/sdb_01-300x196.jpg 300w, https://prayingmadness.github.io/wp-content/uploads/2015/05/sdb_01-1024x669.jpg 1024w, https://prayingmadness.github.io/wp-content/uploads/2015/05/sdb_01-400x261.jpg 400w" sizes="(max-width: 1085px) 100vw, 1085px" /></p>
 <p>The iPad-only reading experience included a menacing page burner that destroyed every page as the user swiped it. To intensify the thrill, a control panel informed readers when someone stole time from them and when other books were destroyed.</p>
 <p><img class="alignnone wp-image-27 size-full" src="http://prayingmadness.com/wp-content/uploads/2015/05/sdb_04.jpg" alt="sdb_04" width="1085" height="562" srcset="https://prayingmadness.github.io/wp-content/uploads/2015/05/sdb_04.jpg 1085w, https://prayingmadness.github.io/wp-content/uploads/2015/05/sdb_04-300x155.jpg 300w, https://prayingmadness.github.io/wp-content/uploads/2015/05/sdb_04-1024x530.jpg 1024w, https://prayingmadness.github.io/wp-content/uploads/2015/05/sdb_04-400x207.jpg 400w" sizes="(max-width: 1085px) 100vw, 1085px" /></p>
-]]></content:encoded>
-			</item>
-		<item>
-		<title>Soma FM Now Playing</title>
-		<link>https://prayingmadness.github.io/soma-fm-now-playing/</link>
-		<pubDate>Sun, 03 May 2015 10:48:19 +0000</pubDate>
-		<dc:creator><![CDATA[scott kosman]]></dc:creator>
-				<category><![CDATA[Uncategorized]]></category>
-		<category><![CDATA[work]]></category>
-
-		<guid isPermaLink="false">http://prayingmadness.com/?p=60</guid>
-		<description><![CDATA[Any time I&#8217;m in a position to have to learn a new technology platform, my &#8220;Hello, world&#8221; of choice is to build a fairly simple Now Playing widget for SomaFM internet radio – basically allowing a user to instantly see what track is playing on any of their stations at any given time. In the last couple&#8230; <p class="more-link-p"><a class="more-link" href="https://prayingmadness.github.io/soma-fm-now-playing/">Continue reading <span class="meta-nav">&#8594;</span></a></p>]]></description>
-				<content:encoded><![CDATA[<p>Any time I&#8217;m in a position to have to learn a new technology platform, my &#8220;Hello, world&#8221; of choice is to build a fairly simple Now Playing widget for <a href="http://somafm.com/">SomaFM</a> internet radio – basically allowing a user to instantly see what track is playing on any of their stations at any given time.</p>
-<p>In the last couple of years I&#8217;ve done this twice: in 2013 for Panic&#8217;s <a href="https://panic.com/statusboard/">Status Board</a> iPad app and most recently for the <a href="https://getpebble.com/">Pebble Smartwatch</a>.</p>
-<p><a href="http://prayingmadness.com/wp-content/uploads/2015/05/soma_statusboard.png"><img class="alignnone size-full wp-image-116" src="http://prayingmadness.com/wp-content/uploads/2015/05/soma_statusboard.png" alt="soma_statusboard" width="275" height="274" srcset="https://prayingmadness.github.io/wp-content/uploads/2015/05/soma_statusboard.png 275w, https://prayingmadness.github.io/wp-content/uploads/2015/05/soma_statusboard-150x150.png 150w" sizes="(max-width: 275px) 100vw, 275px" /></a></p>
-<p><strong>Wanna have a play?</strong></p>
-<ul>
-<li>If you&#8217;re a Status Board user you can add the widget to your own iPad by <a href="panicboard://?url=http%3A%2F%2Fsomafm.prayingmadness.com&amp;panel=diy">tapping here</a>.</li>
-<li>If you have a Pebble, <a href="http://apps.getpebble.com/en_US/application/55a7f76374e429d266000040">oh hey look over here</a>.</li>
-</ul>
-<p>And if you have neither device handy but still want to peek under the hood, both codebases are on Github: <a href="https://github.com/humantorch/Soma-FM-panel-for-Status-Board">Status Board</a> | <a href="https://github.com/humantorch/pebble-somafm">Pebble</a></p>
 ]]></content:encoded>
 			</item>
 	</channel>
