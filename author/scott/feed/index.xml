@@ -12,12 +12,27 @@
 	<atom:link href="https://prayingmadness.github.io/author/scott/feed/" rel="self" type="application/rss+xml" />
 	<link>https://prayingmadness.github.io/</link>
 	<description>Est. 1976. Technical Director and possible Fictional Character.</description>
-	<lastBuildDate>Tue, 31 Jul 2018 12:55:42 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 31 Jul 2018 18:44:57 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=4.9.7</generator>
 	<item>
+		<title>iPad Sand Drawing</title>
+		<link>https://prayingmadness.github.io/ipad-sand-drawing/</link>
+		<pubDate>Tue, 31 Jul 2018 18:16:49 +0000</pubDate>
+		<dc:creator><![CDATA[scott kosman]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">https://prayingmadness.github.io/?p=203</guid>
+		<description><![CDATA[This project was created for De Bijenkorf, a high-end department store in Amsterdam, as part of a summer promotion where they were giving away a beach vacation. De Bijenkorf had an iPad app that was essentially a native wrapper for an HTML/CSS/JS CMS so we were able to build this project using web standards. The&#8230; <p class="more-link-p"><a class="more-link" href="https://prayingmadness.github.io/ipad-sand-drawing/">Continue reading <span class="meta-nav">&#8594;</span></a></p>]]></description>
+				<content:encoded><![CDATA[<p>This project was created for De Bijenkorf, a high-end department store in Amsterdam, as part of a summer promotion where they were giving away a beach vacation. De Bijenkorf had an iPad app that was essentially a native wrapper for an HTML/CSS/JS CMS so we were able to build this project using web standards. The idea here was to present the user with a virtual beach, their task was to draw the name of their dream vacation in the sand and the best entry would win a trip to their beach of choice.</p>
+<p><a href="https://prayingmadness.github.io/sand-drawing/">prayingmadness.github.io/sand-drawing</a></p>
+<p>What you see here is the sand-drawing portion of the application – along with this I had built a backend application that would capture the &lt;canvas&gt; element as a static image and upload it to a gallery hosted on De Bijenkorf&#8217;s Facebook page (that gallery is, unfortunately, lost to the ravages of time).</p>
+<p>The sand-drawing part of the application can still be used (obviously I&#8217;ve stunted the submission portion), however as this was strictly written to be iPad-<em>only</em> it won&#8217;t function at all in a desktop browser (it makes heavy use of iOS-specific touch events), and while it will work on an iPhone some of the controls (erase, submit) are off-screen. Setting Chrome to <a href="https://developers.google.com/web/tools/chrome-devtools/device-mode/" target="_blank" rel="noopener">emulate an iPad</a> in portrait mode will give you an approximation of the functionality and smoothness of the drawing as well.</p>
+]]></content:encoded>
+			</item>
+		<item>
 		<title>killer loop – the hunt</title>
 		<link>https://prayingmadness.github.io/killer-loop-the-hunt/</link>
 		<pubDate>Tue, 31 Jul 2018 10:41:17 +0000</pubDate>
@@ -31,6 +46,7 @@
 <p>This project pushed HTML5 &lt;video&gt; in directions it was never supposed to go, integrating live camera-angle switching at one point in the video, allowing the user to choose which angle to view a stunt from. This was accomplished through a technique similar to a graphic sprite sheet, where all the camera angles were contained in one video file and &#8220;changing the camera angle&#8221; redirects the user to a new point in the video timeline. I&#8217;ve seen this used with audio files but, to the best of my knowledge, I&#8217;m the only developer in the history of the universe to attempt it with video. It resulted in a pretty long preloader since the entire video file needed to be loaded in order for timeline jumping to work accurately and smoothly, which introduced it&#8217;s own host of issues since every browser implements video preloading differently. Chrome, oddly, was the <em>worst</em> offender here and required a significant amount of hacking to force it into submission.</p>
 <p>This was a project built in late 2013 for Minivegas. The live version of the project has been significantly changed by the client&#8217;s internal development team since my initial build went live, so a build of the project as it stood when I handed it off is available at <a href="https://prayingmadness.github.io/killerloop">prayingmadness.github.io/killerloop</a></p>
 <p>Up until the site was handed off to the client and deployed live I was the sole developer on the project.</p>
+<p>Important note: browsers have changed a <em>lot</em> in regards to autoplaying content since this was built and, as a result, the video might not start when you load it up. I&#8217;ve hacked in a Play button that should disappear when triggered – the scene-switching functionality requires media controls to be hidden – but it may not work as originally intended. I think it works best in Safari at the moment but no guarantees. You&#8217;ll have to take me on my word that it&#8217;s <em>amazing</em>. <img src="https://s.w.org/images/core/emoji/2.4/72x72/1f609.png" alt="😉" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
 ]]></content:encoded>
 			</item>
 		<item>
@@ -89,9 +105,8 @@
 		<guid isPermaLink="false">http://prayingmadness.com/?p=58</guid>
 		<description><![CDATA[I&#8217;d been asked by the beautiful people at Fronteers to present a 10-minute talk at their &#8220;Jam Session,&#8221; which takes place the evening before their annual web development conference. Rather than present yet another technical-oriented talk as all of the other presenters would be doing, I decided to take a different tactic and actually present&#8230; <p class="more-link-p"><a class="more-link" href="https://prayingmadness.github.io/dont-think-just-play/">Continue reading <span class="meta-nav">&#8594;</span></a></p>]]></description>
 				<content:encoded><![CDATA[<p>I&#8217;d been asked by the beautiful people at <a href="http://fronteers.nl/">Fronteers</a> to present a 10-minute talk at their &#8220;Jam Session,&#8221; which takes place the evening before their annual web development conference. Rather than present yet another technical-oriented talk as all of the other presenters would be doing, I decided to take a different tactic and actually present on public speaking. My thinking was that in this industry, everyone is going to have to present something at some point, whether to a small group of colleagues, as a pitch to a prospective client, or speaking at an industry gathering. Drawing on my experience as a former church preacher (seriously!) I gave a lightning talk on some key tactics to make yourself a better public speaker. As fate would have it, I was chosen to give the opening talk of the night, which of course led to me referring to myself as the Fronteers keynote speaker. <img src="https://s.w.org/images/core/emoji/2.4/72x72/1f609.png" alt="😉" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
-<p>The talks were all recorded, so below is a video of me presenting as well as my slide deck from the presentation.</p>
-<p><iframe src="https://player.vimeo.com/video/51827394" width="848" height="477" frameborder="0" title="Scott Kosman | Don&#039;t Think, Just Play | Fronteers 2012 Jam Session" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></p>
-<iframe allowfullscreen="true" allowtransparency="true" frameborder="0" height="699" id="talk_frame_6800" mozallowfullscreen="true" src="//speakerdeck.com/player/506caf672d77290002019afe" style="border:0; padding:0; margin:0; background:transparent;" webkitallowfullscreen="true" width="848"></iframe>
+<p>The talks were all recorded, here&#8217;s mine! Unfortunately the video and audio desync by a twee bit about halfway through. ¯\_(ツ)_/¯</p>
+<p><iframe src="https://player.vimeo.com/video/51827394?app_id=122963" width="848" height="477" frameborder="0" title="Scott Kosman | Don&#039;t Think, Just Play | Fronteers 2012 Jam Session" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></p>
 ]]></content:encoded>
 			</item>
 		<item>
@@ -136,8 +151,8 @@
 		<category><![CDATA[work]]></category>
 
 		<guid isPermaLink="false">http://prayingmadness.com/?p=50</guid>
-		<description><![CDATA[http://cyberwar.kaspersky.com/ With access to a wealth of real time data, we created an interactive WebGL experience that dramatically brings to life every detection made by Kaspersky software, happening at that very moment, around the world.We denoted different threats with colours and geometric symbols. Some show the point of detection while others show the source of&#8230; <p class="more-link-p"><a class="more-link" href="https://prayingmadness.github.io/kaspersky-cybermap/">Continue reading <span class="meta-nav">&#8594;</span></a></p>]]></description>
-				<content:encoded><![CDATA[<p><a href="http://cyberwar.kaspersky.com/">http://cyberwar.kaspersky.com/</a></p>
+		<description><![CDATA[http://cybermap.kaspersky.com/ With access to a wealth of real time data, we created an interactive WebGL experience that dramatically brings to life every detection made by Kaspersky software, happening at that very moment, around the world.We denoted different threats with colours and geometric symbols. Some show the point of detection while others show the source of&#8230; <p class="more-link-p"><a class="more-link" href="https://prayingmadness.github.io/kaspersky-cybermap/">Continue reading <span class="meta-nav">&#8594;</span></a></p>]]></description>
+				<content:encoded><![CDATA[<p><a href="http://cybermap.kaspersky.com/">http://cybermap.kaspersky.com/</a></p>
 <p>With access to a wealth of real time data, we created an interactive WebGL experience that dramatically brings to life every detection made by Kaspersky software, happening at that very moment, around the world.We denoted different threats with colours and geometric symbols. Some show the point of detection while others show the source of the threat as well, with bright, arcing trajectories linking source to destination. Users can zoom in and out of either a globe or flat map view to pinpoint the major threats and identify the most infected areas. A breakdown of each country’s level of infection can be triggered with a click, along with the ability to directly select your own country and share statistics through social. <img class="alignnone size-full wp-image-76" src="http://prayingmadness.com/wp-content/uploads/2015/05/kap_02.jpg" alt="kap_02" width="1300" height="790" srcset="https://prayingmadness.github.io/wp-content/uploads/2015/05/kap_02.jpg 1300w, https://prayingmadness.github.io/wp-content/uploads/2015/05/kap_02-300x182.jpg 300w, https://prayingmadness.github.io/wp-content/uploads/2015/05/kap_02-1024x622.jpg 1024w, https://prayingmadness.github.io/wp-content/uploads/2015/05/kap_02-400x243.jpg 400w" sizes="(max-width: 1300px) 100vw, 1300px" /></p>
 <p>The visualization went on to feature on big screens at Kasperksy Lab events and trade shows around the world, using a specially designed demo mode which takes the audience on an autopilot fly-through that descends down to ground level and right into the heat of the action. The combination of true data and live statistics with an engaging user experience, tells a compelling story and hopefully provides Kaspersky with an eye-catching way to raise brand awareness, showcase their products and possibly remind a few people of their favorite childhood 80’s movies!</p>
 <p><img class="alignnone size-full wp-image-77" src="http://prayingmadness.com/wp-content/uploads/2015/05/kap_03.jpg" alt="kap_03" width="1300" height="790" srcset="https://prayingmadness.github.io/wp-content/uploads/2015/05/kap_03.jpg 1300w, https://prayingmadness.github.io/wp-content/uploads/2015/05/kap_03-300x182.jpg 300w, https://prayingmadness.github.io/wp-content/uploads/2015/05/kap_03-1024x622.jpg 1024w, https://prayingmadness.github.io/wp-content/uploads/2015/05/kap_03-400x243.jpg 400w" sizes="(max-width: 1300px) 100vw, 1300px" /></p>
@@ -159,31 +174,6 @@
 <p>Yep.</p>
 <p><img class="alignnone wp-image-105 size-full" src="http://prayingmadness.com/wp-content/uploads/2015/05/4newswall.gif" alt="4newswall" width="200" height="200" /></p>
 <p>We built this site on Tumblr, but in the process of doing so hacked Tumblr like it was attacking my family. Pushing Tumblr in directions it was never meant to go has become somewhat of a hobby as of late and in the end it turned out to be a near-perfect CMS for this sort of thing. The benefit of pushing all .gif content to followers&#8217; Tumblr Dashboards helped spread the site farther and wider than we ever hoped imaginable. A combination of Tumblr and an S3-powered Backbone application keeps everything humming nice and smoothly.</p>
-]]></content:encoded>
-			</item>
-		<item>
-		<title>Karenina Live</title>
-		<link>https://prayingmadness.github.io/karenina-live/</link>
-		<pubDate>Sun, 03 May 2015 12:43:59 +0000</pubDate>
-		<dc:creator><![CDATA[scott kosman]]></dc:creator>
-				<category><![CDATA[Uncategorized]]></category>
-		<category><![CDATA[work]]></category>
-
-		<guid isPermaLink="false">http://prayingmadness.com/?p=40</guid>
-		<description><![CDATA[http://karenina.withgoogle.com/ Google Russia wanted to demonstrate that it does more than simply understand local culture – it actively contributes to it. So we dreamt up a project that took one of the most cherished Russian literary masterpieces of all time and reintroduced it to a modern audience using Google technology. Together with Google we created&#8230; <p class="more-link-p"><a class="more-link" href="https://prayingmadness.github.io/karenina-live/">Continue reading <span class="meta-nav">&#8594;</span></a></p>]]></description>
-				<content:encoded><![CDATA[<p><a href="http://karenina.withgoogle.com/">http://karenina.withgoogle.com/</a></p>
-<p>Google Russia wanted to demonstrate that it does more than simply understand local culture – it actively contributes to it. So we dreamt up a project that took one of the most cherished Russian literary masterpieces of all time and reintroduced it to a modern audience using Google technology.</p>
-<p>Together with Google we created a brand new edition of Leo Tolstoy’s masterpiece “Anna Karenina” using Google’s exclusive Hangout technology. An online version, narrated live from front cover to back cover by the Russian people.</p>
-<p>More than 700 people from all over the world read Leo Tolstoy’s novel on-line on the Internet for 36 hours in a row…</p>
-<p>It was an extraordinary event – a relay-race of storytelling, that unified the most disparate people through one extraordinary story: from the Russian President’s Press Secretary to opposition bloggers; from TV stars in Moscow to everyday workers in Russia’s remotest regions.</p>
-<p>Here are some results:</p>
-<ul>
-<li>Unprecedented PR Coverage in Russia – 5.4b of impressions (900+ articles in online and offline media, 55 radio spots and 78 TV spots). 6 prime time newsblocks about the project on the biggest Russian channel &#8211; First Channel, that covers 90% of population in Russia.</li>
-<li>6M views of promo video</li>
-<li>3M playbacks of livestream</li>
-<li>20 000 followers and 4 mln impressions on Google+ page</li>
-<li>4x surge in “Karenina” search queries during 2-day livestream</li>
-</ul>
 ]]></content:encoded>
 			</item>
 	</channel>

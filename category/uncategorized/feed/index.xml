@@ -12,12 +12,27 @@
 	<atom:link href="https://prayingmadness.github.io/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
 	<link>https://prayingmadness.github.io/</link>
 	<description>Est. 1976. Technical Director and possible Fictional Character.</description>
-	<lastBuildDate>Tue, 31 Jul 2018 12:55:42 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 31 Jul 2018 18:44:57 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=4.9.7</generator>
 	<item>
+		<title>iPad Sand Drawing</title>
+		<link>https://prayingmadness.github.io/ipad-sand-drawing/</link>
+		<pubDate>Tue, 31 Jul 2018 18:16:49 +0000</pubDate>
+		<dc:creator><![CDATA[scott kosman]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">https://prayingmadness.github.io/?p=203</guid>
+		<description><![CDATA[This project was created for De Bijenkorf, a high-end department store in Amsterdam, as part of a summer promotion where they were giving away a beach vacation. De Bijenkorf had an iPad app that was essentially a native wrapper for an HTML/CSS/JS CMS so we were able to build this project using web standards. The&#8230; <p class="more-link-p"><a class="more-link" href="https://prayingmadness.github.io/ipad-sand-drawing/">Continue reading <span class="meta-nav">&#8594;</span></a></p>]]></description>
+				<content:encoded><![CDATA[<p>This project was created for De Bijenkorf, a high-end department store in Amsterdam, as part of a summer promotion where they were giving away a beach vacation. De Bijenkorf had an iPad app that was essentially a native wrapper for an HTML/CSS/JS CMS so we were able to build this project using web standards. The idea here was to present the user with a virtual beach, their task was to draw the name of their dream vacation in the sand and the best entry would win a trip to their beach of choice.</p>
+<p><a href="https://prayingmadness.github.io/sand-drawing/">prayingmadness.github.io/sand-drawing</a></p>
+<p>What you see here is the sand-drawing portion of the application – along with this I had built a backend application that would capture the &lt;canvas&gt; element as a static image and upload it to a gallery hosted on De Bijenkorf&#8217;s Facebook page (that gallery is, unfortunately, lost to the ravages of time).</p>
+<p>The sand-drawing part of the application can still be used (obviously I&#8217;ve stunted the submission portion), however as this was strictly written to be iPad-<em>only</em> it won&#8217;t function at all in a desktop browser (it makes heavy use of iOS-specific touch events), and while it will work on an iPhone some of the controls (erase, submit) are off-screen. Setting Chrome to <a href="https://developers.google.com/web/tools/chrome-devtools/device-mode/" target="_blank" rel="noopener">emulate an iPad</a> in portrait mode will give you an approximation of the functionality and smoothness of the drawing as well.</p>
+]]></content:encoded>
+			</item>
+		<item>
 		<title>killer loop – the hunt</title>
 		<link>https://prayingmadness.github.io/killer-loop-the-hunt/</link>
 		<pubDate>Tue, 31 Jul 2018 10:41:17 +0000</pubDate>
@@ -31,6 +46,7 @@
 <p>This project pushed HTML5 &lt;video&gt; in directions it was never supposed to go, integrating live camera-angle switching at one point in the video, allowing the user to choose which angle to view a stunt from. This was accomplished through a technique similar to a graphic sprite sheet, where all the camera angles were contained in one video file and &#8220;changing the camera angle&#8221; redirects the user to a new point in the video timeline. I&#8217;ve seen this used with audio files but, to the best of my knowledge, I&#8217;m the only developer in the history of the universe to attempt it with video. It resulted in a pretty long preloader since the entire video file needed to be loaded in order for timeline jumping to work accurately and smoothly, which introduced it&#8217;s own host of issues since every browser implements video preloading differently. Chrome, oddly, was the <em>worst</em> offender here and required a significant amount of hacking to force it into submission.</p>
 <p>This was a project built in late 2013 for Minivegas. The live version of the project has been significantly changed by the client&#8217;s internal development team since my initial build went live, so a build of the project as it stood when I handed it off is available at <a href="https://prayingmadness.github.io/killerloop">prayingmadness.github.io/killerloop</a></p>
 <p>Up until the site was handed off to the client and deployed live I was the sole developer on the project.</p>
+<p>Important note: browsers have changed a <em>lot</em> in regards to autoplaying content since this was built and, as a result, the video might not start when you load it up. I&#8217;ve hacked in a Play button that should disappear when triggered – the scene-switching functionality requires media controls to be hidden – but it may not work as originally intended. I think it works best in Safari at the moment but no guarantees. You&#8217;ll have to take me on my word that it&#8217;s <em>amazing</em>. <img src="https://s.w.org/images/core/emoji/2.4/72x72/1f609.png" alt="😉" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
 ]]></content:encoded>
 			</item>
 		<item>
@@ -121,8 +137,8 @@
 		<category><![CDATA[work]]></category>
 
 		<guid isPermaLink="false">http://prayingmadness.com/?p=50</guid>
-		<description><![CDATA[http://cyberwar.kaspersky.com/ With access to a wealth of real time data, we created an interactive WebGL experience that dramatically brings to life every detection made by Kaspersky software, happening at that very moment, around the world.We denoted different threats with colours and geometric symbols. Some show the point of detection while others show the source of&#8230; <p class="more-link-p"><a class="more-link" href="https://prayingmadness.github.io/kaspersky-cybermap/">Continue reading <span class="meta-nav">&#8594;</span></a></p>]]></description>
-				<content:encoded><![CDATA[<p><a href="http://cyberwar.kaspersky.com/">http://cyberwar.kaspersky.com/</a></p>
+		<description><![CDATA[http://cybermap.kaspersky.com/ With access to a wealth of real time data, we created an interactive WebGL experience that dramatically brings to life every detection made by Kaspersky software, happening at that very moment, around the world.We denoted different threats with colours and geometric symbols. Some show the point of detection while others show the source of&#8230; <p class="more-link-p"><a class="more-link" href="https://prayingmadness.github.io/kaspersky-cybermap/">Continue reading <span class="meta-nav">&#8594;</span></a></p>]]></description>
+				<content:encoded><![CDATA[<p><a href="http://cybermap.kaspersky.com/">http://cybermap.kaspersky.com/</a></p>
 <p>With access to a wealth of real time data, we created an interactive WebGL experience that dramatically brings to life every detection made by Kaspersky software, happening at that very moment, around the world.We denoted different threats with colours and geometric symbols. Some show the point of detection while others show the source of the threat as well, with bright, arcing trajectories linking source to destination. Users can zoom in and out of either a globe or flat map view to pinpoint the major threats and identify the most infected areas. A breakdown of each country’s level of infection can be triggered with a click, along with the ability to directly select your own country and share statistics through social. <img class="alignnone size-full wp-image-76" src="http://prayingmadness.com/wp-content/uploads/2015/05/kap_02.jpg" alt="kap_02" width="1300" height="790" srcset="https://prayingmadness.github.io/wp-content/uploads/2015/05/kap_02.jpg 1300w, https://prayingmadness.github.io/wp-content/uploads/2015/05/kap_02-300x182.jpg 300w, https://prayingmadness.github.io/wp-content/uploads/2015/05/kap_02-1024x622.jpg 1024w, https://prayingmadness.github.io/wp-content/uploads/2015/05/kap_02-400x243.jpg 400w" sizes="(max-width: 1300px) 100vw, 1300px" /></p>
 <p>The visualization went on to feature on big screens at Kasperksy Lab events and trade shows around the world, using a specially designed demo mode which takes the audience on an autopilot fly-through that descends down to ground level and right into the heat of the action. The combination of true data and live statistics with an engaging user experience, tells a compelling story and hopefully provides Kaspersky with an eye-catching way to raise brand awareness, showcase their products and possibly remind a few people of their favorite childhood 80’s movies!</p>
 <p><img class="alignnone size-full wp-image-77" src="http://prayingmadness.com/wp-content/uploads/2015/05/kap_03.jpg" alt="kap_03" width="1300" height="790" srcset="https://prayingmadness.github.io/wp-content/uploads/2015/05/kap_03.jpg 1300w, https://prayingmadness.github.io/wp-content/uploads/2015/05/kap_03-300x182.jpg 300w, https://prayingmadness.github.io/wp-content/uploads/2015/05/kap_03-1024x622.jpg 1024w, https://prayingmadness.github.io/wp-content/uploads/2015/05/kap_03-400x243.jpg 400w" sizes="(max-width: 1300px) 100vw, 1300px" /></p>
@@ -169,28 +185,6 @@
 <li>20 000 followers and 4 mln impressions on Google+ page</li>
 <li>4x surge in “Karenina” search queries during 2-day livestream</li>
 </ul>
-]]></content:encoded>
-			</item>
-		<item>
-		<title>Self-Destructing Book</title>
-		<link>https://prayingmadness.github.io/self-destructing-book/</link>
-		<pubDate>Sun, 03 May 2015 11:24:42 +0000</pubDate>
-		<dc:creator><![CDATA[scott kosman]]></dc:creator>
-				<category><![CDATA[Uncategorized]]></category>
-		<category><![CDATA[work]]></category>
-
-		<guid isPermaLink="false">http://prayingmadness.com/?p=19</guid>
-		<description><![CDATA[http://selfdestructingbook.com/ For the launch of James Patterson’s new book Private Vegas, we took the inherent thrill of this novel to a spectacular, new height. We created the Self-Destructing Book. An integrated campaign designed to bring to life the most thrilling reading experiences ever. We gave people 24 hours to read “Private Vegas” before it self-destructed.&#8230; <p class="more-link-p"><a class="more-link" href="https://prayingmadness.github.io/self-destructing-book/">Continue reading <span class="meta-nav">&#8594;</span></a></p>]]></description>
-				<content:encoded><![CDATA[<p><a href="http://selfdestructingbook.com/">http://selfdestructingbook.com/</a></p>
-<p>For the launch of James Patterson’s new book <em>Private Vegas</em>, we took the inherent thrill of this novel to a spectacular, new height.</p>
-<p>We created the Self-Destructing Book. An integrated campaign designed to bring to life the most thrilling reading experiences ever. We gave people 24 hours to read “Private Vegas” before it self-destructed.</p>
-<p><iframe src="https://player.vimeo.com/video/118767422" width="848" height="477" frameborder="0" title="The Self-Destructing Book - Case Study" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></p>
-<p>1,000 fans had 24 hours to read an advance digital version of the book until it self­-destructed in a spectacular fashion. Thousand of others followed along and interacted with the readers. Unique codes were created and released in batches throughout the 5 days of the experience.</p>
-<p><img class="alignnone wp-image-26 size-full" src="http://prayingmadness.com/wp-content/uploads/2015/05/sdb_02.jpg" alt="sdb_02" width="1085" height="649" srcset="https://prayingmadness.github.io/wp-content/uploads/2015/05/sdb_02.jpg 1085w, https://prayingmadness.github.io/wp-content/uploads/2015/05/sdb_02-300x179.jpg 300w, https://prayingmadness.github.io/wp-content/uploads/2015/05/sdb_02-1024x613.jpg 1024w, https://prayingmadness.github.io/wp-content/uploads/2015/05/sdb_02-400x239.jpg 400w" sizes="(max-width: 1085px) 100vw, 1085px" /></p>
-<p>Readers and online users were connected, and to increase the adrenaline in their race against the clock, people visiting the site were able to “sabotage” the readers’ timers and steal time from them.</p>
-<p><img class="alignnone wp-image-25 size-full" src="http://prayingmadness.com/wp-content/uploads/2015/05/sdb_01.jpg" alt="sdb_01" width="1085" height="709" srcset="https://prayingmadness.github.io/wp-content/uploads/2015/05/sdb_01.jpg 1085w, https://prayingmadness.github.io/wp-content/uploads/2015/05/sdb_01-300x196.jpg 300w, https://prayingmadness.github.io/wp-content/uploads/2015/05/sdb_01-1024x669.jpg 1024w, https://prayingmadness.github.io/wp-content/uploads/2015/05/sdb_01-400x261.jpg 400w" sizes="(max-width: 1085px) 100vw, 1085px" /></p>
-<p>The iPad-only reading experience included a menacing page burner that destroyed every page as the user swiped it. To intensify the thrill, a control panel informed readers when someone stole time from them and when other books were destroyed.</p>
-<p><img class="alignnone wp-image-27 size-full" src="http://prayingmadness.com/wp-content/uploads/2015/05/sdb_04.jpg" alt="sdb_04" width="1085" height="562" srcset="https://prayingmadness.github.io/wp-content/uploads/2015/05/sdb_04.jpg 1085w, https://prayingmadness.github.io/wp-content/uploads/2015/05/sdb_04-300x155.jpg 300w, https://prayingmadness.github.io/wp-content/uploads/2015/05/sdb_04-1024x530.jpg 1024w, https://prayingmadness.github.io/wp-content/uploads/2015/05/sdb_04-400x207.jpg 400w" sizes="(max-width: 1085px) 100vw, 1085px" /></p>
 ]]></content:encoded>
 			</item>
 	</channel>
