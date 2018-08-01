@@ -12,7 +12,7 @@
 	<atom:link href="https://prayingmadness.github.io/category/work/feed/" rel="self" type="application/rss+xml" />
 	<link>https://prayingmadness.github.io/</link>
 	<description>Est. 1976. Technical Director and possible Fictional Character.</description>
-	<lastBuildDate>Tue, 31 Jul 2018 20:48:57 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 01 Aug 2018 06:06:00 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -161,7 +161,7 @@
 <p><strong>Wanna have a play?</strong></p>
 <ul>
 <li>If you&#8217;re a Status Board user you can add the widget to your own iPad by <a href="panicboard://?url=http%3A%2F%2Fsomafm.prayingmadness.com&amp;panel=diy">tapping here</a>.</li>
-<li>If you have a Pebble, <a href="http://apps.getpebble.com/en_US/application/55a7f76374e429d266000040">oh hey look over here</a>.</li>
+<li>If you have a Pebble, <del>oh hey look over here</del> unfortunately due to Pebble shutting down there&#8217;s no longer an app store. <img src="https://s.w.org/images/core/emoji/2.4/72x72/1f641.png" alt="🙁" class="wp-smiley" style="height: 1em; max-height: 1em;" /></li>
 </ul>
 <p>And if you have neither device handy but still want to peek under the hood, both codebases are on Github: <a href="https://github.com/humantorch/Soma-FM-panel-for-Status-Board">Status Board</a> | <a href="https://github.com/humantorch/pebble-somafm">Pebble</a></p>
 ]]></content:encoded>
